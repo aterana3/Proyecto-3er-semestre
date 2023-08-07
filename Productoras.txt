@@ -1,0 +1,14 @@
+Productora1:Id_Productora=1,Descripcion=Warner Bros. Pictures,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora2:Id_Productora=2,Descripcion=Imágenes universales,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora3:Id_Productora=3,Descripcion=Paramount,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora4:Id_Productora=4,Descripcion=Columbia,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora5:Id_Productora=5,Descripcion=Walt Disney,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora6:Id_Productora=6,Descripcion=Sony Pictures Entretenimiento,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora7:Id_Productora=7,Descripcion=Lionsgate Películas,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora8:Id_Productora=8,Descripcion=New Line Cinema,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora9:Id_Productora=9,Descripcion=DreamWorks,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora10:Id_Productora=10,Descripcion=Miramax Películas,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora11:Id_Productora=11,Descripcion=Pixar,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora12:Id_Productora=12,Descripcion=Estudios Marvel,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora13:Id_Productora=13,Descripcion=Lucasfilm Ltd.,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396
+Productora14:Id_Productora=14,Descripcion=Blumhouse Producciones,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:43:10.654396

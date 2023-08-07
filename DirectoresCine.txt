@@ -1,0 +1,7 @@
+Director1:Id_Director=1,Descripcion=Martin Scorsese,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:53:50.288842
+Director2:Id_Director=2,Descripcion=Steven Spielberg,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:54:25.934969
+Director3:Id_Director=3,Descripcion=Cristóbal Nolan,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:54:55.292883
+Director4:Id_Director=4,Descripcion=Quentin Tarantino,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:54:55.292883
+Director5:Id_Director=5,Descripcion=Alfred Hitchcock,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:54:55.292883
+Director6:Id_Director=6,Descripcion=Stanley Kubrick,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:54:55.292883
+Director7:Id_Director=7,Descripcion=Woody Allen,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:54:55.292883

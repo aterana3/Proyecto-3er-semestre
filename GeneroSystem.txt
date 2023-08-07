@@ -1,0 +1,2 @@
+Genero1:Id_Genero=1,Descripcion=Masculino,Estado=1,Fecha_Ingreso=2023-07-18 21:40:25.004911
+Genero2:Id_Genero=2,Descripcion=Femenino,Estado=1,Fecha_Ingreso=2023-07-18 21:40:53.396984

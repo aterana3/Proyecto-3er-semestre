@@ -1,0 +1,6 @@
+EstadoCivil1:Id_Estado_Civil=1,Descripcion=Soltero,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:04:55.862210
+EstadoCivil2:Id_Estado_Civil=2,Descripcion=Casado,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:05:19.814362
+EstadoCivil3:Id_Estado_Civil=3,Descripcion=Divorciado,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:05:58.437712
+EstadoCivil4:Id_Estado_Civil=4,Descripcion=Viudo,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:06:14.510373
+EstadoCivil5:Id_Estado_Civil=5,Descripcion=Union Libre,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:06:34.190356
+EstadoCivil6:Id_Estado_Civil=6,Descripcion=Separado,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:06:49.230481

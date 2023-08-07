@@ -1,0 +1,1 @@
+Cliente1:Id_Cliente=1,Cedula=0912345678,Nombres=Anthony,Apellidos=Teran,Id_Genero=1,Fecha_nacimiento=25/09/2003,Id_Estado_Civil=1,Dirección=UNEMI,Referencia=UNEMI,Id_Operadora=1,Celular=0991086430,Teléfono=ninguno,Correo=aterana3@unemi.edu.ec,Id_ClienTipo=1,Id_Estado=1,Fecha_Ingreso=2023-08-04 06:50:09.343111

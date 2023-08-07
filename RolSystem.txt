@@ -1,0 +1,2 @@
+Rol1:Id_Rol=1,Descripcion=Administrador,Id_Estado=1,Fecha_Ingreso=2023-08-01 21:45:41.931060
+Rol2:Id_Rol=2,Descripcion=Analista,Id_Estado=1,Fecha_Ingreso=2023-08-01 21:46:08.843285

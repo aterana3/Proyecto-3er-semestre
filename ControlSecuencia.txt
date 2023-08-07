@@ -1,0 +1,16 @@
+StateSystem:2
+UserSystem:1
+RolSystem:2
+GeneroPersonSystem:2
+OperaMovil:6
+EstadoCivilSystem:6
+ClientTipoSystem:2
+ClientSystem:1
+PelTipoSystem:4
+PeliculaSystem:1
+ProductoraCine:14
+DirectorCine:7
+ActorCine:2
+PelGenero:5
+PelCalificacion:1
+AlquilerSystem:1

@@ -1,0 +1,2 @@
+ClientTipo1:Id_ClienTipo=1,Descripcion=Normal,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:07:25.526358
+ClientTipo2:Id_ClienTipo=2,Descripcion=Premiun,Id_Estado=1,Fecha_Ingreso=2023-08-02 08:07:40.038138

@@ -1,0 +1,1 @@
+Pelicula1:Id_Pelicula=1,Nombre=Oppenheimer,Id_PeliTipo=2,Id_PelGenero=3,Id_PelClasifica=1,Id_Actor=1,Id_Director=2,Id_Productora=1,Id_Estado=1,Fecha_Ingreso=2023-08-04 06:47:50.895466

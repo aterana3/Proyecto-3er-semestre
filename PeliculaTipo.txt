@@ -1,0 +1,4 @@
+PeliTipo1:Id_PeliTipo=1,Descripcion=Normal,Id_Estado=1,Costo=1.00,Tiempo_Alquiler=2,Fecha_Ingreso=2023-08-02 08:10:29.421444
+PeliTipo2:Id_PeliTipo=2,Descripcion=Estreno,Id_Estado=1,Costo=3.00,Tiempo_Alquiler=1,Fecha_Ingreso=2023-08-02 08:11:01.766352
+PeliTipo3:Id_PeliTipo=3,Descripcion=Culto,Id_Estado=2,Costo=2.00,Tiempo_Alquiler=1,Fecha_Ingreso=2023-08-02 08:11:37.141574
+PeliTipo4:Id_PeliTipo=4,Descripcion=Clasicas,Id_Estado=2,Costo=5.00,Tiempo_Alquiler=1,Fecha_Ingreso=2023-08-02 08:12:13.309757

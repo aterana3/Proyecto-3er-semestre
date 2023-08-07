@@ -1,0 +1,2 @@
+Actor1:Id_Actor=1,Nombres_Apellidos=Anthony Hopkins,Id_Genero=1,Fecha_nacimiento=1/1/1900,Galardonada=SI,Oscar=No,Fecha_Ingreso=2023-08-03 22:02:32.118534
+Actor2:Id_Actor=2,Nombres_Apellidos=Meryl Streep,Id_Genero=1,Fecha_nacimiento=1/1/1900,Galardonada=Si,Oscar=Si,Fecha_Ingreso=2023-08-03 22:05:40.678705

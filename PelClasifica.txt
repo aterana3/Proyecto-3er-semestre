@@ -1,0 +1,1 @@
+Calificacion1:Id_PelClasifica=1,Descripcion=PG-12,Observacion=Indican la edad recomendada para ver la pel�cula.,Id_Estado=1,Fecha_Ingreso=2023-08-04 06:46:39.591332

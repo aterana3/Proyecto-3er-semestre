@@ -1,0 +1,1 @@
+Usuario1:Id_User=1,Nombre=Anthony,Password=b'gAAAAABkzPp8baioXDUsFLa2Fl3qnBi0RibcQKjlbBU1hZRaCfIhwec2TWPp04tkSZyeG7BgPTlkVmzaRjxzJaPWo0dU3EcFqw==',Id_Rol=1,Id_Estado=1,Fecha_Ingreso=2023-08-04 08:18:01.408455

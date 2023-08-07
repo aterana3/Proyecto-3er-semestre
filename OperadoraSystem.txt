@@ -1,0 +1,6 @@
+OperaMovil1:Id_Operadora=1,Descripcion=Claro,Id_Estado=1,Fecha_Ingreso=2023-07-18 21:44:41.436946
+OperaMovil2:Id_Operadora=2,Descripcion=Movistar,Id_Estado=1,Fecha_Ingreso=2023-07-18 21:45:02.796908
+OperaMovil3:Id_Operadora=3,Descripcion=CNT,Id_Estado=1,Fecha_Ingreso=2023-07-18 21:45:17.948353
+OperaMovil4:Id_Operadora=4,Descripcion=Twenty,Id_Estado=1,Fecha_Ingreso=2023-07-18 21:45:29.324179
+OperaMovil5:Id_Operadora=5,Descripcion=Aki,Id_Estado=1,Fecha_Ingreso=2023-07-18 21:45:41.060137
+OperaMovil6:Id_Operadora=6,Descripcion=Supermaxi,Id_Estado=1,Fecha_Ingreso=2023-07-18 21:45:55.372467

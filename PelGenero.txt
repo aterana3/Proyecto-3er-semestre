@@ -1,0 +1,5 @@
+PelGenero1:Id_PelGenero=1,Descripcion=Drama,Observacion=Se centra en conflictos emocionales o personales de los personajes,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:58:41.119495
+PelGenero2:Id_PelGenero=2,Descripcion=Comedia,Observacion=Busca generar risa y entretenimiento a través de situaciones humorísticas y diálogos divertidos.,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:58:41.119495
+PelGenero3:Id_PelGenero=3,Descripcion=Guerra,Observacion=Centrado en conflictos bélicos y sus consecuencias.,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:58:41.119495
+PelGenero4:Id_PelGenero=4,Descripcion=Documental,Observacion=Presenta eventos.,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:58:41.119495
+PelGenero5:Id_PelGenero=5,Descripcion=Autor,Observacion=Caracterizado por la visión y el estilo distintivos del director.,Id_Estado=1,Fecha_Ingreso=2023-08-03 21:58:41.119495

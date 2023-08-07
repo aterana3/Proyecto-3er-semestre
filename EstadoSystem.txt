@@ -1,0 +1,2 @@
+Estado1:Id_Estado=1,Nombre=Activo,Detalle=Este registro se puede usar,Fecha_Ingreso=2023-08-01 21:43:01.306280
+Estado2:Id_Estado=2,Nombre=Inactivo,Detalle=Solo es para consulta,Fecha_Ingreso=2023-08-01 21:44:30.796071
